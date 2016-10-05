@@ -11,13 +11,18 @@ So I created image for the community to help other developer to set up this grea
 * GIT versioning system
 * Local clients for MySQL 5.6 and Postgresql 9.5
 * Midnight Commander
+
 ### Configuration
 * 1GB Swapfile with swappinness = 0 (use only if RAM is not available)
-* Example configuration for website (/etc/httpd/conf.d and /etc/httpd/vhosts)
+* Example configuration for website (```/etc/httpd/conf.d``` and ```/etc/httpd/vhosts```)
 * PHP with reduced RAM consuption, errors turned on
 * Timezone set to /Europe/Prague
+
 ### Hardware
 * System HDD 8GB
-* Data HDD 10GB mounted to /var/www/html (no deletion with instance)
+* Data HDD 10GB mounted to ```/var/www/html``` (no deletion with instance)
+
+## Where to find
+Search public images for ```github/jdrda/awswebserverimage```
 
 Good luck!
