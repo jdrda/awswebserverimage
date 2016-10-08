@@ -1,5 +1,7 @@
 # awswebserverimage
 Performance-based installation of Amazon EC2 micro (free tier) with Apache, PHP and GIT
+## Where to find
+Search public images for ```github/jdrda/awswebserverimage``` in Europe/Ireland and copy it to your account (after that you can copy to US, Asia and other regions)
 ## Background
 As I have created many webservers on Amazon Web Services (AWS) installations for my customers, I found how to tune it to maximum performance.
 So I created image for the community to help other developer to set up this great service
@@ -21,8 +23,5 @@ So I created image for the community to help other developer to set up this grea
 ### Hardware
 * System HDD 8GB
 * Data HDD 10GB mounted to ```/var/www/html``` (no deletion with instance)
-
-## Where to find
-Search public images for ```github/jdrda/awswebserverimage```
 
 Good luck!
